@@ -1,4 +1,4 @@
-Crea una aplicacion web en Java tal que sea un simulador avanzado del sistema solar, basado en la formula de Newton. La simulacion contemplara el movimiento de los planetas en un espacio tridimensional
+Crea una aplicacion en Java tal que sea un simulador avanzado del sistema solar, basado en la formula de Newton. La simulacion contemplara el movimiento de los planetas en un espacio tridimensional
 Debe representar graficamente cada planeta moviendose alrededor del sol. 
 
 El interfaz de usuario se dividirá en dos partes:
